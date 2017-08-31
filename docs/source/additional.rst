@@ -4,7 +4,7 @@ Additional Information
 I graduated with a Bachelor in Information Technology from An Giang University.
 I didn't spend much time with activities at class when I was studying here. 
 But I enjoy part-time jobs and programming software. 
-Now, after many years I still keep a passion for programming languages and enthusiam to work with it.
+Now, after many years I've been keeping a passion for programming languages and enthusiam to work with it.
 
 .. _hashtag-addition-reward:
 
