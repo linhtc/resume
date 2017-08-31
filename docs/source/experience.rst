@@ -72,7 +72,7 @@ Agitech
 -------
 
 They're a `IT Solutions company <http://agitech.com.vn/>`_. It has based in Long Xuyen city, An Giang province. 
-I was being study at University in this time. But I'd worked for them too.
+I was studying at University in this time. But I'd worked for them too.
 This job started ``from Jun 2013 to Apr 2014``.
 
 * Using C#, .NET MVC and SQL Server (2008/2012).
