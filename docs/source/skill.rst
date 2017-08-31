@@ -7,7 +7,7 @@ I’ve played with writing things ranging from websites, to applications in smar
 Language Skills:
 
 * Deep understanding of `PHP <https://github.com/linhtc/php>`_, MySQL, HTML, JavaScript and CSS.
-* Have worked with `Java <https://github.com/linhtc/android>`_, `Swift <https://github.com/linhtc/ios>`_, and `C <https://github.com/linhtc/linhomes>`_ in the recent times.
+* Have worked with `Java <https://github.com/linhtc/android>`_, `Swift <https://github.com/linhtc/ios>`_ and `C <https://github.com/linhtc/linhomes>`_ in the recent times.
 * Have played with `C# <https://www.facebook.com/tran.conglinh/media_set?set=a.553927318047138.1073741829.100002896239827&type=3>`_, ASP.NET and SQL Server quite a bit.
 * Have some work experience in the further past in `Node.js <https://github.com/linhtc/node/tree/master/mean>`_ and MongoDB.
 * Others I've played with in some capacity or another: C (ESP-IDF FW), Arduino and Go.
@@ -39,7 +39,7 @@ But I will back others later.
 * Caching a part of page with Memcache.
 * Using Gearman to make PHP as multiple threads or asynchoronous.
 * Embed Firebase to make site as realtime and look "fast response".
-* Have played in a few Framework. It's CodeIgniter, Symfony and Zend.
+* Have played in a few Frameworks. They're CodeIgniter, Symfony and Zend.
 
 .. _hashtag-technical-mysql:
 
@@ -52,7 +52,7 @@ Most of my experience with this is centered around writing queries, procedures, 
 * Working on system more than 20 milion records.
 * Have to experience of Optimization and Indexes.
 * Using Trigger, Procedure to update and remove data.
-* Seting Event to setup delay task like Crontab in Linux.
+* Seting Event to set up delay task like Crontab in Linux.
 * Have a look Master Slave Replication in the further past.
 * Have played with Federated Table on two servers (between Dallas and Chicago).
 
@@ -95,7 +95,7 @@ Swift
 I reach for this when I want support `my project for "iFan" <https://github.com/linhtc/ios>`_ who loves Apple devices.
 
 * Easily to layout with Storyboard by drag and drop.
-* Making Firebase SDK via Cocoapods for "live app" and more.
+* Making Firebase SDK via Cocoapods for "live app".
 * Using SQLite to store some data.
 
 .. _hashtag-technical-html-java:
@@ -115,13 +115,13 @@ I use this when I need to support `my project for Android <https://github.com/li
 C
 -
 
-Working on ESP32 SoC of Espressif for use by Smarthome control 
+Working on ESP32 SoC of Espressif for use by Smarthome Control 
 (`Switches <https://github.com/linhtc/linhomes/tree/master/switches>`_ project).
 
 * Using ESP-IDF framework.
 * Creating WebSocket on chip for control from smartphones.
 * Have played with Firebase to sync LED pin state from ESP module (REST API).
 
-.. note:: The reference link is my github or projects which I worked in some companies in the past.
+.. note:: The references are my github or projects which I worked in companies in the past.
           If you think I tell lie about that. You can call me in :ref:`hashtag-personal-information` section.
           Thank for reading!
