@@ -76,7 +76,7 @@ I was studying at University in this time. But I'd worked for them too.
 This job started ``from Jun 2013 to Apr 2014``.
 
 * Using C#, .NET MVC and SQL Server (2008/2012).
-* Write Triggers, Procedures for database.
+* Writing Triggers, Procedures for database.
 * Have work with DevExpress (vol 10.2), LINQ to SQL and Entity Framework (ORM) to programming Windows app.
 * Analyzing, design and construction of pharmaceutical warehouse management system (deployed for Imexpharm in Long Xuyen, An Giang).
 * Building pharmacy management systems by GPP standard.
