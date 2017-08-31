@@ -87,7 +87,7 @@ Because It easy to understand and large community if I need a support.
 * Have a look at SEO techniques.
 * Have played with responsive, mobile web.
 
-.. _hashtag-technical-html-swift:
+.. _hashtag-technical-swift:
 
 Swift
 -----
@@ -98,7 +98,7 @@ I reach for this when I want support `my project for "iFan" <https://github.com/
 * Making Firebase SDK via Cocoapods for "live app".
 * Using SQLite to store some data.
 
-.. _hashtag-technical-html-java:
+.. _hashtag-technical-java:
 
 Java
 ----
@@ -110,7 +110,7 @@ I use this when I need to support `my project for Android <https://github.com/li
 * Using SQLite to store some data.
 * Have played with AsyncTask or Handler.
 
-.. _hashtag-technical-html-c:
+.. _hashtag-technical-c:
 
 C
 -
@@ -122,6 +122,6 @@ Working on ESP32 SoC of Espressif for use by Smarthome Control
 * Creating WebSocket on chip for control from smartphones.
 * Have played with Firebase to sync LED pin state from ESP module (REST API).
 
-.. note:: The references are my github or projects which I worked in companies in the past.
+.. note:: The references are my github or projects which I worked at companies in the past.
           If you think I tell lie about that. You can call me in :ref:`hashtag-personal-information` section.
           Thank for reading!
