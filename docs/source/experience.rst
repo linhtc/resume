@@ -87,7 +87,7 @@ This job started ``from Jun 2013 to Apr 2014``.
 Freelancer & Part-time
 ----------------------
 
-This is a few jobs I work:
+Here's a list of a few jobs I'd worked:
 
 * ``May 2014 – Sep 2014``: Writing simulation code for websites like: ione.vnexpress.net, tiin.vn, vneconomy.vn, baomoi.com, vienthonga.com, tiki.vn.
 * ``Jun 2012 – Feb 2013``: Manager for chain of Linh Chi motel (Linh Chi 1, Linh Chi 2), and deliver goods to Duy Linh industry factory.
