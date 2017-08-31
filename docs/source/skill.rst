@@ -124,4 +124,4 @@ Working on ESP32 SoC of Espressif for use by Smarthome Control
 
 .. note:: The references are my github or projects which I worked at companies in the past.
           If you think I tell lie about that. You can call me in :ref:`hashtag-personal-information` section.
-          Thank for reading!
+          Thanks for reading!
