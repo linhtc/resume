@@ -38,5 +38,4 @@ And I enjoy seeking a new way to address old problems by my knowledge.
    :caption: About Linhomes
 
    vision
-   progress
 

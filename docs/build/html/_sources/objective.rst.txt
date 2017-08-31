@@ -11,7 +11,7 @@ It's time to change my world.
 
 For 30 years old
 ----------------
-I'll work for a company and make anything I can do in that.
+I'm going to work for a company and make anything I can do in that.
 Why do I want to work there?
 
 * A professional environment, friendly to promote all abilities, creativity with colleagues.
