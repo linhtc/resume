@@ -23,8 +23,10 @@ I often bring tasks to home. But I don't want give bugs to you. It is terrible.
 
 For 35 years old
 ----------------
-I'll move to Japan or Silicon Valey to understand How do they make a best product?
-What do I can do and prepair to start with it.
+I'm gonna to go to Tokyo (Japan) or Silicon Valey to understand How do they make a best product?
+What do I can do? What do I need to do and prepair to start with it. 
+
+Can you help me with this?
 
 For 40+ years old
 -----------------
