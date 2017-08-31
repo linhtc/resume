@@ -13,7 +13,7 @@ Mobiistar
 They're `Vietnamese smartphone maker <http://www.mobiistar.vn/>`_. 
 Here I work for VAS department and I've written some APIs, 
 comparison tool called `Canvas <https://canvas.tools.mobiistar.com/admin>`_
-(It like `Pdevice website <http://www.pdevice.com/>`_), 
+(It's like `Pdevice website <http://www.pdevice.com/>`_), 
 support Marketing department for `new campaign <http://depsaophaigiau.mobiistar.vn/>`_, 
 Check-in app on iOS and `Retail Mode <https://retail.tools.mobiistar.com/>`_ (only MBS's device, Android)
 for PGs who work at partner shop like Fptshop.com, VienthongA.vn, Thegioididong.com and NguyenKim.com. 
