@@ -39,7 +39,7 @@ and logistic project named `Nova Stock <http://hiteknova.com/>`_.
 I had joined with them ``from Apr 2016 to Aug 2016``.
 
 * Using PHP framework (Codeigniter), Bootstrap.
-* Cut HTML from PSD file.
+* Cutting HTML from PSD file.
 * Using Asana.com app for teamwork.
 * Setting up Ubuntu Server and local SVN.
 * Trainning my knowledge for coworker.

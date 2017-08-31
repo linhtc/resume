@@ -83,7 +83,7 @@ It's a part of programming languages to develop website.
 I often use Bootstrap for render layout. 
 Because It easy to understand and large community if I need a support.
 
-* Cuting HTML from PSD file.
+* Cutting HTML from PSD file.
 * Have a look at SEO techniques.
 * Have played with responsive, mobile web.
 
