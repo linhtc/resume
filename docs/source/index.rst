@@ -14,9 +14,9 @@ Who is he?
 * A passion for programming languages.
 * A polyglot who enjoys the commonalities and contrasts of each platform.
 * Loves tuning systems for performance and stability.
-* A cyclist, "poet", "singer" and best football player.
+* A cyclist, "poet", "singer" and "best" football player.
 
-Though I have many years of PHP development experience as well. I am a Swift in iOS and Java in Android too. 
+Though I have many years of PHP development experience. I am a Swift in iOS and Java in Android as well. 
 I enjoy enabling more stable performant software in any way I can.
 
 In my spare time, I play with ESP32 of Espressif, 
