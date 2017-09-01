@@ -1,7 +1,7 @@
 Work Experience
 ===============
 
-The vast majority of my projects are private source but another can be found on `GitHub <https://github.com/linhtc>`_. 
+The vast majority of my projects are private sources but another can be found on `GitHub <https://github.com/linhtc>`_. 
 This is a list of companies I’ve worked. I love discussing them, 
 so feel free to ask me about them or ask them about me if you want.
 
@@ -16,7 +16,7 @@ comparison tool called `Canvas <https://canvas.tools.mobiistar.com/admin>`_
 (It's like `Pdevice website <http://www.pdevice.com/>`_), 
 support Marketing department for `new campaign <http://depsaophaigiau.mobiistar.vn/>`_, 
 Check-in app on iOS and `Retail Mode <https://retail.tools.mobiistar.com/>`_ (only MBS's device, Android)
-for PGs who work at partner shop like Fptshop.com, VienthongA.vn, Thegioididong.com and NguyenKim.com. 
+for PGs who work at partner shop like Fptshop.com.vn, VienthongA.vn, Thegioididong.com and NguyenKim.com. 
 I've began this job ``from Sep 2016 to now`` and there's something I have to tell you:
 
 * Using PHP framework (CI3), Smarty template.
