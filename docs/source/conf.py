@@ -120,7 +120,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'StarPeopleDocumentationdoc'
+htmlhelp_basename = 'TCLResume'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -147,7 +147,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'StarPeopleDocumentation.tex', u'Star People Documentation Documentation',
+    (master_doc, 'TCLResume.tex', u'TCL Resume',
      u'Vas Mobiistar', 'manual'),
 ]
 
@@ -157,7 +157,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'starpeopledocumentation', u'Star People Documentation Documentation',
+    (master_doc, 'tclresume', u'TCL Resume',
      [author], 1)
 ]
 
@@ -168,8 +168,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'StarPeopleDocumentation', u'Star People Documentation Documentation',
-     author, 'StarPeopleDocumentation', 'One line description of project.',
+    (master_doc, 'TCLResume', u'TCL Resume',
+     author, 'TCLResume', 'One line description of project.',
      'Miscellaneous'),
 ]
 

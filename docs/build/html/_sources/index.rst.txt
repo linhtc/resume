@@ -20,7 +20,7 @@ Though I have many years of PHP development experience. I am a Swift in iOS and 
 I enjoy enabling more stable performant software in any way I can.
 
 In my spare time, I play with ESP32 of Espressif, 
-Arduino Board and my project called `Linhomes <https://github.com/linhtc/linhomes>`_.
+Arduino Board and my project called Linhomes.
 And I enjoy seeking a new way to address old problems by my knowledge.
 
 .. toctree::
