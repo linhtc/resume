@@ -71,8 +71,8 @@ and realtime activity like `Call Center <http://greystonedatatech.com/solutions/
 * Using `Queue.js <http://code.stephenmorley.org/javascript/queues/>`_ to make function sequentially.
 * Used WebSocket to control the LED on ESP8266.
 
-Sometime, I'm having trouble getting loop or callback function. 
-It make my browser was greyout and I realize that "Let asynchoronous in sync and synchronization in async".
+Sometime in the past I got trouble with loop or callback function. 
+It made my browser was greyout and I had realized that "I should combine asynchronous and synchronous code".
 
 .. _hashtag-technical-html-css:
 
