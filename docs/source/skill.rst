@@ -52,7 +52,7 @@ Most of my experience with this is centered around writing queries, procedures, 
 * Working on system more than 20 milion records.
 * Have to experience of Optimization and Indexes.
 * Using Trigger, Procedure to update and remove data.
-* Seting Event to set up delay task like Crontab in Linux.
+* Setting Event to set up delay task like Crontab in Linux.
 * Have a look Master Slave Replication in the further past.
 * Have played with Federated Table on two servers (between Dallas and Chicago).
 
