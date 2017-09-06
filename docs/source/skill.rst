@@ -14,11 +14,11 @@ Language Skills:
 
 Another Skills:
 
-* Using Linux (Ubuntu distro), MacOS (El Capitan) and Windows in the past.
-* Working on Version control as Git, Subversion.
+* Linux (Ubuntu distro), Windows and MacOS (El Capitan).
+* Version control as Git, Subversion.
 * Have played with Docker a little bit.
-* Writing online document by Read the docs.
-* Using Trello to work more collaboratively.
+* Written online document by Read the docs.
+* Using Trello, Asana to work more collaboratively.
 * Building a plan of project with Microsoft Project.
 
 .. _hashtag-technical-php:
