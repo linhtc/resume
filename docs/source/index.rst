@@ -24,7 +24,7 @@ Arduino Board and my project called Linhomes.
 And I enjoy seeking a new way to address old problems by my knowledge.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    information
    objective
