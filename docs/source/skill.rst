@@ -72,7 +72,7 @@ and realtime activity like `Call Center <http://greystonedatatech.com/solutions/
 * Used WebSocket to control the LED on ESP8266.
 
 Sometime in the past I got trouble with loop or callback function. 
-It made my browser was greyout and I had realized that "I should combine asynchronous and synchronous code".
+It made my browser was greyout. I mean "I should try to combine asynchronous and synchronous code".
 
 .. _hashtag-technical-html-css:
 
