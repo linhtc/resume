@@ -29,9 +29,9 @@ PHP
 It sparked the fire in me to really start enjoying Web languages. I have used it to
 build out `Services <http://starpeople.readthedocs.io/vi/latest/oauth.html>`_, APIs, 
 `Chatbots <https://www.facebook.com/Linhtek-1933723283566261/>`_, 
-Website Introductions like `Viking Beer <http://viking.is/>`_ (input the birthday in go if you want more) 
+Website Introductions like `Viking Beer <http://viking.is/>`_ (input the birthday if you want to see more) 
 and Dashboard like `GCS Cloud <https://dashboard1.greystonedatatech.com>`_ 
-(buy `Icombine AIO <http://greystonedatatech.com/solutions/hardware.html>`_ machine and take free account :p).
+(buy `Icombine AIO <http://greystonedatatech.com/solutions/hardware.html>`_ machine and take free account).
 I also talk about the MySQL, HTML, JavaScript and CSS in this ``PHP section`` because it often works together. 
 But I will back others later.
 

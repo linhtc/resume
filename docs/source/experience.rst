@@ -20,11 +20,11 @@ for PGs who work at partner shop like Fptshop.com.vn, VienthongA.vn, Thegioidido
 I've began this job ``from Sep 2016 to now`` and there's something I have to tell you:
 
 * Using PHP framework (CI3), Smarty template.
-* Using Memcache, Gearman, Firebase and more.
-* Using Crontab (Linux) for some email tasks.
+* Using Memcache, Gearman, Firebase.
+* Using Crontab (Linux) for email tasks.
 * Using MailChimp for quick and responsive html email or tracking email.
 * Using Curl and DOMDocument to automatical update price, specs, rating from some websites.
-* Writing `online documentation <http://starpeople.readthedocs.io/vi/latest/>`_ for APIs to work with Third Partners by Read the Docs.
+* Writing `online documentation <https://starpeople.readthedocs.io/vi/latest/>`_ for APIs to work with Third Partners by Read the Docs.
 * Using Swift to write the Star People app.
 
 .. _hashtag-experience-nordic-nova:
@@ -95,9 +95,9 @@ Here's a list of a few jobs I'd worked:
 
 .. note:: I commit to all information I have provided above are true and there are evidence!
 
-* `Mr. Luan <https://www.facebook.com/kinhluan.buihuynh>`_-Leader, VAS Team of Mobiistar, VNG Corporation. Contact: 0984.206.548.
-* `Mr. Son <https://www.facebook.com/trailangthangbanbaprang>`_-Project Manager, Web Team of Greystone. Contact: 0978.595.949.
-* `Mr. Nhan <https://www.facebook.com/hltnhan>`_-director of the An Giang Green Technology Co., Ltd. Contact: 0919.995.986 or 01684.606.804.
-* `Mr.Tien <https://www.facebook.com/quangtien.tran.98>`_-teacher of Dong Thanh 1 secondary school (An Minh, Kien Giang). Contact: 01683.726.193.
-* Mr. Linh (owner of  Linh Chi motel). Contact: 0928.82.52.82 or 0913.82.52.82.
-* Mr. Bao (owner of  B&T coffee shop).  Contact: 0907.599.005.
+* `Mr. Luan <https://www.facebook.com/kinhluan.buihuynh>`_-Leader, VAS Team of Mobiistar, VNG Corporation. Contact: (+84) 984 206 548.
+* `Mr. Son <https://www.facebook.com/trailangthangbanbaprang>`_-Project Manager, Web Team of Greystone. Contact: (+84) 978 595 949.
+* `Mr. Nhan <https://www.facebook.com/hltnhan>`_-director of the An Giang Green Technology Co., Ltd. Contact: (+84) 919 995 986.
+* `Mr.Tien <https://www.facebook.com/quangtien.tran.98>`_-teacher of Dong Thanh 1 secondary school (An Minh, Kien Giang). Contact: (+84) 1683 726 193.
+* Mr. Linh (owner of  Linh Chi motel). Contact: (+84) 913 82 52 82.
+* Mr. Bao (owner of  B&T coffee shop).  Contact: (+84) 907 599 005.
