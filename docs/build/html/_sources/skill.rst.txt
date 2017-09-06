@@ -14,11 +14,11 @@ Language Skills:
 
 Another Skills:
 
-* Using Linux (Ubuntu distro), MacOS (El Capitan) and Windows in the past.
-* Working on Version control as Git, Subversion.
+* Linux (Ubuntu distro), Windows and MacOS (El Capitan).
+* Version control as Git, Subversion.
 * Have played with Docker a little bit.
-* Writing online document by Read the docs.
-* Using Trello to work more collaboratively.
+* Written online document by Read the docs.
+* Using Trello, Asana to work more collaboratively.
 * Building a plan of project with Microsoft Project.
 
 .. _hashtag-technical-php:
@@ -29,9 +29,9 @@ PHP
 It sparked the fire in me to really start enjoying Web languages. I have used it to
 build out `Services <http://starpeople.readthedocs.io/vi/latest/oauth.html>`_, APIs, 
 `Chatbots <https://www.facebook.com/Linhtek-1933723283566261/>`_, 
-Website Introductions like `Viking Beer <http://viking.is/>`_ (input the birthday in go if you want more) 
+Website Introductions like `Viking Beer <http://viking.is/>`_ (input the birthday if you want to see more) 
 and Dashboard like `GCS Cloud <https://dashboard1.greystonedatatech.com>`_ 
-(buy `Icombine AIO <http://greystonedatatech.com/solutions/hardware.html>`_ machine and take free account :p).
+(buy `Icombine AIO <http://greystonedatatech.com/solutions/hardware.html>`_ machine and take free account).
 I also talk about the MySQL, HTML, JavaScript and CSS in this ``PHP section`` because it often works together. 
 But I will back others later.
 
@@ -52,7 +52,7 @@ Most of my experience with this is centered around writing queries, procedures, 
 * Working on system more than 20 milion records.
 * Have to experience of Optimization and Indexes.
 * Using Trigger, Procedure to update and remove data.
-* Seting Event to set up delay task like Crontab in Linux.
+* Setting Event to set up delay task like Crontab in Linux.
 * Have a look Master Slave Replication in the further past.
 * Have played with Federated Table on two servers (between Dallas and Chicago).
 
@@ -71,8 +71,8 @@ and realtime activity like `Call Center <http://greystonedatatech.com/solutions/
 * Using `Queue.js <http://code.stephenmorley.org/javascript/queues/>`_ to make function sequentially.
 * Used WebSocket to control the LED on ESP8266.
 
-Sometime, I'm having trouble getting loop or callback function. 
-It make my browser was greyout and I realize that "Let asynchoronous in sync and synchronization in async".
+Sometime in the past I got trouble with loop or callback function. 
+It made my browser was greyout. I mean "I should try to combine asynchronous and synchronous code".
 
 .. _hashtag-technical-html-css:
 

@@ -25,7 +25,6 @@ And I enjoy seeking a new way to address old problems by my knowledge.
 
 .. toctree::
    :maxdepth: 1
-   :caption: About Me
 
    information
    objective
@@ -33,9 +32,4 @@ And I enjoy seeking a new way to address old problems by my knowledge.
    experience
    additional
 
-.. toctree::
-   :maxdepth: 1
-   :caption: About Linhomes
-
-   vision
 
