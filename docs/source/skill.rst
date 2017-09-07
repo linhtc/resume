@@ -17,9 +17,9 @@ Another Skills:
 * Linux (Ubuntu distro), Windows and MacOS (El Capitan).
 * Version control as Git, Subversion.
 * Have played with Docker a little bit.
-* Written online document by Read the docs.
-* Using Trello, Asana to work more collaboratively.
-* Building a plan of project with Microsoft Project.
+* Write online document by Read the docs.
+* Use Trello, Asana to work more collaboratively.
+* Build a plan of project with Microsoft Project.
 
 .. _hashtag-technical-php:
 
