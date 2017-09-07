@@ -15,7 +15,7 @@ Here I work for VAS department and I've written some APIs,
 comparison tool called `Canvas <https://canvas.tools.mobiistar.com/admin>`_
 (It's like `Pdevice website <http://www.pdevice.com/>`_), 
 support Marketing department for `new campaign <http://depsaophaigiau.mobiistar.vn/>`_, 
-Check-in app on iOS and `Retail Mode <https://retail.tools.mobiistar.com/>`_ (only MBS's device, Android)
+Check-in app on iOS and `Retail Mode <https://retail.tools.mobiistar.com/>`_ (only MBS's devices)
 for PGs who work at partner shop like Fptshop.com.vn, VienthongA.vn, Thegioididong.com and NguyenKim.com. 
 I've began this job ``from Sep 2016 to now`` and there's something I have to tell you:
 
