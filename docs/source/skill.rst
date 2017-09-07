@@ -36,8 +36,8 @@ I also talk about the MySQL, HTML, JavaScript and CSS in this ``PHP section`` be
 But I will back others later.
 
 * Have a deep understanding of performance in PHP websites.
-* Caching a part of page with Memcache.
-* Using Gearman to make PHP as multiple threads or asynchoronous.
+* Cache a part of page with Memcache.
+* Using Gearman to make PHP as multiple threads, background services.
 * Embed Firebase to make site as realtime and look "fast response".
 * Have played in a few Frameworks. They're CodeIgniter, Symfony and Zend.
 
@@ -51,7 +51,7 @@ Most of my experience with this is centered around writing queries, procedures, 
 
 * Working on system more than 20 milion records.
 * Have to experience of Optimization and Indexes.
-* Using Trigger, Procedure to update and remove data.
+* Use Trigger, Procedure to update and remove data.
 * Setting Event to set up delay task like Crontab in Linux.
 * Have a look Master Slave Replication in the further past.
 * Have played with Federated Table on two servers (between Dallas and Chicago).
@@ -68,8 +68,8 @@ and realtime activity like `Call Center <http://greystonedatatech.com/solutions/
 
 * Working on Document Object Model (DOM).
 * Have played with Local Storage Objects.
-* Using `Queue.js <http://code.stephenmorley.org/javascript/queues/>`_ to make function sequentially.
-* Used WebSocket to control the LED on ESP8266.
+* `Queue.js <http://code.stephenmorley.org/javascript/queues/>`_ to make function sequentially.
+* WebSocket to control the LED on ESP8266.
 
 Sometime in the past I got trouble with loop or callback function. 
 It made my browser was greyout. I mean "I should try to combine asynchronous and synchronous code".
@@ -83,7 +83,7 @@ It's a part of programming languages to develop website.
 I often use Bootstrap for render layout. 
 Because It easy to understand and large community if I need a support.
 
-* Cutting HTML from PSD file.
+* Generate HTML by PSD file.
 * Have a look at SEO techniques.
 * Have played with responsive, mobile web.
 
@@ -94,8 +94,8 @@ Swift
 
 I reach for this when I want support `my project for "iFan" <https://github.com/linhtc/ios>`_ who loves Apple devices.
 
-* Easily to layout with Storyboard by drag and drop.
-* Making Firebase SDK via Cocoapods for "live app".
+* To build layout with Storyboard.
+* Install Firebase SDK via Cocoapods.
 * Using SQLite to store some data.
 
 .. _hashtag-technical-java:
@@ -105,8 +105,8 @@ Java
 
 I use this when I need to support `my project for Android <https://github.com/linhtc/android>`_ devices.
 
-* Easily to layout with XML structure.
-* Making Firebase SDK via Grade.
+* Building layout with XML structure.
+* Get Firebase SDK via Grade.
 * Using SQLite to store some data.
 * Have played with AsyncTask or Handler.
 
@@ -118,10 +118,10 @@ C
 Working on ESP32 SoC of Espressif for use by Smarthome Control 
 (`Switches <https://github.com/linhtc/linhomes/tree/master/switches>`_ project).
 
-* Using ESP-IDF framework.
-* Creating WebSocket on chip for control from smartphones.
-* Have played with Firebase to sync LED pin state from ESP module (REST API).
+* Use ESP-IDF framework.
+* Create WebSocket on chip.
+* Play Firebase on ESP module (REST API).
 
 .. note:: The references are my github or projects which I worked at companies in the past.
-          If you think I tell lie about that. You can call me in :ref:`hashtag-personal-information` section.
+          If you think I tell lie about that. You can message me in :ref:`hashtag-personal-information` section.
           Thanks for reading!

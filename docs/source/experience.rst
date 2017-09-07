@@ -19,13 +19,13 @@ Check-in app on iOS and `Retail Mode <https://retail.tools.mobiistar.com/>`_ (on
 for PGs who work at partner shop like Fptshop.com.vn, VienthongA.vn, Thegioididong.com and NguyenKim.com. 
 I've began this job ``from Sep 2016 to now`` and there's something I have to tell you:
 
-* Using PHP framework (CI3), Smarty template.
-* Using Memcache, Gearman, Firebase.
-* Using Crontab (Linux) for email tasks.
-* Using MailChimp for quick and responsive html email or tracking email.
+* PHP framework (CI3), Smarty template.
+* Memcache, Gearman, Firebase.
+* Crontab (Linux).
+* Use MailChimp for html email.
 * Using Curl and DOMDocument to automatical update price, specs, rating from some websites.
-* Writing `online documentation <https://starpeople.readthedocs.io/vi/latest/>`_ for APIs to work with Third Partners by Read the Docs.
-* Using Swift to write the Star People app.
+* Write `online documentation <https://starpeople.readthedocs.io/vi/latest/>`_ for APIs by Read the Docs.
+* Build Star People app by Swift.
 
 .. _hashtag-experience-nordic-nova:
 
@@ -38,11 +38,11 @@ I had worked on `Viking Beer <http://viking.is/>`_ project (a Icelandic brand) d
 and logistic project named `Nova Stock <http://hiteknova.com/>`_.
 I had joined with them ``from Apr 2016 to Aug 2016``.
 
-* Using PHP framework (Codeigniter), Bootstrap.
-* Cutting HTML from PSD file.
-* Using Asana.com app for teamwork.
-* Setting up Ubuntu Server and local SVN.
-* Trainning my knowledge for coworker.
+* PHP framework (Codeigniter), Bootstrap.
+* Cut HTML from PSD file.
+* Use Trello, Asana app for teamwork.
+* Set up Ubuntu Server and local SVN.
+* Train my knowledge for coworker.
 
 .. _hashtag-experience-gds:
 
@@ -57,14 +57,14 @@ I worked for R&D department and major projects were `GCS Cloud <https://dashboar
 iZap project (Web local) and a little bit on `Tradit <http://tradit.greystonedatatech.com/>`_. 
 I worked ``from Oct 2014 to Mar 2016``.
 
-* Using PHP framework (Symfony).
-* Otimizing MySQL database for long query, update data (only more than 20 milion records).
-* Writing APIs and WebSocket to work with machines and devices.
-* Building script to sync data between two servers (Dallas, Chicago - Event + Federated).
-* Learning Master Slave Replication for syncing data.
-* Researching a new way to improve performance.
+* PHP framework (Symfony).
+* Otimize MySQL database for long query, update data (only more than 20 milion records).
+* Develop APIs and WebSocket to work with machines and devices.
+* Implement script to sync data between two servers (Dallas, Chicago - Event + Federated).
+* Learn Master Slave Replication for syncing data.
+* Research a new way to improve performance.
 * Have played with Node.js, Phantom.js to get some content on Apple, WD and login into Salesforce system.
-* Have used Angular.js for some page.
+* Have used Angular.js.
 
 .. _hashtag-experience-agitech:
 
@@ -75,11 +75,11 @@ They're a `IT Solutions company <http://agitech.com.vn/>`_. It has based in Long
 I was studying at University in this time. But I'd worked for them too.
 This job started ``from Jun 2013 to Apr 2014``.
 
-* Using C#, .NET MVC and SQL Server (2008/2012).
-* Writing Triggers, Procedures for database.
+* C#, .NET MVC and SQL Server (2008/2012).
+* SQL Triggers, Procedures.
 * Have work with DevExpress (vol 10.2), LINQ to SQL and Entity Framework (ORM) to programming Windows app.
-* Analyzing, design and construction of pharmaceutical warehouse management system (deployed for Imexpharm in Long Xuyen, An Giang).
-* Building pharmacy management systems by GPP standard.
+* Analyze and design construction of pharmaceutical warehouse management system (deployed for Imexpharm in Long Xuyen, An Giang).
+* Build pharmacy management systems (GPP standard).
 
 
 .. _hashtag-experience-freelancer-parttime:
@@ -89,7 +89,7 @@ Freelancer & Part-time
 
 Here's a list of a few jobs I'd worked:
 
-* ``May 2014 – Sep 2014``: Writing simulation code for websites like: ione.vnexpress.net, tiin.vn, vneconomy.vn, baomoi.com, vienthonga.com, tiki.vn.
+* ``May 2014 – Sep 2014``: Write simulation code for websites like: ione.vnexpress.net, tiin.vn, vneconomy.vn, baomoi.com, vienthonga.com, tiki.vn.
 * ``Jun 2012 – Feb 2013``: Manager for chain of Linh Chi motel (Linh Chi 1, Linh Chi 2), and deliver goods to Duy Linh industry factory.
 * ``May 2011 – Jan 2012``: Security, waiter, manager of  B&T coffee shop in Long Xuyen, An Giang.
 
